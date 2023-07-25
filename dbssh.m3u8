@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:8
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:8.333333,
-dbssh0.ts
+https://cdn.jsdelivr.net/gh/johndoreal/johndoreal.github.io/dbssh0.ts
 #EXTINF:1.666667,
-dbssh1.ts
+https://cdn.jsdelivr.net/gh/johndoreal/johndoreal.github.io/dbssh1.ts
 #EXT-X-ENDLIST
